@@ -1,0 +1,85 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Jo�o Silva",
+      "num_inscricao": "4485255",
+      "curso": "Inform�tica"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Santos",
+      "num_inscricao": "4485256",
+      "curso": "Redes"
+    },
+    {
+      "nome": "wdsf",
+      "curso": "sdfsdf",
+      "num_inscricao": "10",
+      "id": 3
+    },
+    {
+      "nome": "xvcvvcc",
+      "curso": "vccvcvcv",
+      "num_inscricao": "9",
+      "id": 4
+    },
+    {
+      "nome": "sdfsadfs",
+      "curso": "dfdsfsdfsd",
+      "num_inscricao": "9",
+      "id": 5
+    },
+    {
+      "nome": "eqrwerwr",
+      "curso": "werwer",
+      "num_inscricao": "12312312312312312312312",
+      "id": 6
+    },
+    {
+      "nome": "asd",
+      "curso": "asd",
+      "num_inscricao": "8",
+      "id": 7
+    },
+    {
+      "nome": "ads",
+      "curso": "asdasd",
+      "num_inscricao": "6",
+      "id": 8
+    },
+    {
+      "nome": "sadasd",
+      "curso": "sadasd",
+      "num_inscricao": "1111",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "nome": "asd",
+      "curso": "asda",
+      "num_inscricao": "123",
+      "id": 11
+    },
+    {
+      "nome": "Lucas",
+      "curso": "TI",
+      "num_inscricao": "1234555",
+      "id": 12
+    },
+    {
+      "nome": "123",
+      "curso": "123123123",
+      "num_inscricao": "12312312312",
+      "id": 13
+    },
+    {
+      "nome": "wer",
+      "curso": "ewrwrw",
+      "num_inscricao": "12123123123123123",
+      "id": 14
+    }
+  ]
+}
